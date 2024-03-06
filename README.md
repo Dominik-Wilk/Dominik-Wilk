@@ -3,7 +3,9 @@
 ## 📖 About me
 
 * 💻 I'm a junior full-stack web developer
-  
+* 🚀 My Development Journey is just beginning, and I'm looking forward to exploring new technologies and techniques to become a more experienced Full Stack Developer. I believe that learning is always possible and I’m ready to overcome any challenges that may come my way.
+
+I am open to collaboration and ready to participate in exciting projects that will allow me to grow as a developer. Feel free to check out my projects on GitHub and reach out for potential callaboration!
 ---
 <h3 align="center">Languages and Tools:</h3>
 
